@@ -34,7 +34,7 @@ code .
 
 ## Go alkalmazás
 
-1. Hozd létre a `main.go` fájlt a project gyökerében
+1. Hozd létre a `main.go` fájlt a projekt gyökerében
 2. A szerkesztőben a `main.go` fülön, ked el gépelni: `package`
 3. A VS Code felajánl több lehetőséget is. Nekünk jelnleg a `package main` szükséges
 4. Ez alá a sor alá pedig illeszd. be az alábbi fő függvényt:
