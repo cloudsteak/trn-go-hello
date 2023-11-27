@@ -4,8 +4,6 @@
 
 Az alábbi helyen megtalálod az előkészületeket a Go-ban való fejlesztéshez: https://github.com/cloudsteak/golang-basics
 
-## Projekt létrehozása
-
 ## Projekt létrehozás
 
 1. Nyiss egy parancssort (CMD)
